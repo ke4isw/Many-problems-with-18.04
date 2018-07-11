@@ -1,0 +1,2 @@
+# Many-problems-with-18.04
+first iso file bad, second loaded but not working.  Firefox would not open. Can't get a Terminal window to open. Downloaded a .deb file and installed it, Asked for authentication and I gave it.  Progress bar showed very fast loading. However no Launch button appeared.  Holding down on shift key while booting will not bring up grub and ability to get to recovery.  I'm an old guy 70 but used 12.04,14.04 16.04 and 16.10 starting when Win 8 came out. Linux had been good to me but getting more difficult now. 
